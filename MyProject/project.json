@@ -12,5 +12,6 @@
     ],
     "icon_path": "preview.png",
     "engine": "o3de-sdk",
-    "external_subdirectories": []
+    "external_subdirectories": [],
+    "project_id": "{97f511cf-94d3-414d-ad62-fd2526d5f562}"
 }

@@ -7,7 +7,7 @@
 
 namespace MyProject
 {
-    class MyProjectSystemComponent
+    class MyProjectSystemComponent 
         : public AZ::Component
         , protected MyProjectRequestBus::Handler
     {
